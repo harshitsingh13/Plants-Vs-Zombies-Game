@@ -1,5 +1,6 @@
 # Plants-Vs-Zombies-Game
 A GUI Game designed using Java in the advanced programming domain involving various concepts - OOPs, interface, error handling, multithreading, etc. The objective of the game is to defend the house from zombies using various plants as defence arsenal through different levels. If the zombies are able to reach the house, you fail the level and have to play the level again.
+
 ###############################################
 
 Rules for the game play are mentioned below (play the game to know the rules in depth):
